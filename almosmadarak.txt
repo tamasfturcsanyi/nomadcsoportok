@@ -1,0 +1,17 @@
+9
+turcsanyi tamas
+vidacs anna
+13
+Erdei Lili Katerina	L	E	S
+Frigyesi Barnabás	F	E	S
+Gál Szonja Mária	L	E	S
+Jelinek Teó	F	I	N
+Kaposi Gerda	L	E	S
+Keller Péter Bálint	F	I	N
+Körmendy Mátyás Gergely	F	I	N
+Liszka Lőrinc	F	E	S
+Szerdahelyi Hanna	L	E	S
+Verseghi-Nagy Adél	L	I	S
+Verseghi-Nagy Sári	L	I	N
+Salamin Teó	F	I	S
+Szonner Borbála	L	I	N
